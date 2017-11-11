@@ -202,7 +202,7 @@ For example:
 
     my $o = YourClass->new();
     $o->foo(42);           # returns $o itself
-    my $value = $o->foo(); # retuns 42
+    my $value = $o->foo(); # returns 42
 
 =head1 DEPENDENCIES
 
